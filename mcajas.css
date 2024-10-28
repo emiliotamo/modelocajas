@@ -1,0 +1,20 @@
+/* Estilo para el encabezado de nivel 1 */
+h1 {
+    border-bottom: 2px solid #00F; /* Azul sólido en el borde inferior */
+}
+
+/* Estilo para los encabezados de nivel 2 */
+h2 {
+    border: 2px solid #AAA; /* Borde completo gris sólido */
+}
+
+/* Estilo para la lista con los datos del libro */
+#datos-libro {
+    border-top: 4px dotted #F00; /* Borde superior punteado rojo */
+    border-bottom: 4px dotted #F00; /* Borde inferior punteado rojo */
+}
+
+/* Estilo para la lista con el contenido del libro */
+#contenido-libro {
+    border: 2px dashed #0F0; /* Borde completo verde con guiones */
+}
